@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @C0d3sCrack3r
+- 👋 Hi, I’m Abhishek
 - 👀 I’m interested in building things and solving problems
-- 🌱 I’m currently learning Flutter and NodeJS
-- 💞️ I’m looking to collaborate on Flutter, NodeJS projects
+- 🌱 I’m currently working Flutter and Go
+- 💞️ I’m looking to collaborate on Flutter projects
 - 📫 You can reach me at...
 
 <!---
