@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhishek
 - 👀 I’m interested in building things and solving problems
-- 🌱 I’m currently working Flutter and Go
-- 💞️ I’m looking to collaborate on Flutter projects
+- 🌱 Currently working on Salesforce, Flutter, Go and Rust
+- 💞️ I’m looking to collaborate on...
 - 📫 You can reach me at...
 
 <!---
